@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+h1{ font-size: 30px;
+    font-weight: bold;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 12%;
+   
+    margin-top: 173px
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.header-bg{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 540px;
+
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 100
+}
+
+.Bio-bg{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 350px;
+}
+.width3 {
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    margin-top: 50px;
+}
+.width3 img {
+    width: 100%;
+}
+.lates-work-bg{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+ h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.footer-bg {
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.width-footer1 {
+    width: 30%;
+    margin-left: 40%;
+   
+}
+.width-footer2 {
+    background-color: rgb(219 34 196);
+    width: 31%;
+    height: 108px;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+   
+}
+.width-footer2 p{
+    color: white;
+    margin-top: 10px;
+    font-size: 10px;
+    
+}
+.width-footer2 a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+     margin-top: 10%;
+     margin-left: 40%;
+     padding-bottom: 5px;
+}
+.footer p{
+    font-size: 10px;
+    color: gray;
+    font-weight: bold;
+}
